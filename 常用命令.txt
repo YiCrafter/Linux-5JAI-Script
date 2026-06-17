@@ -1,0 +1,7 @@
+sudo chmod -R 755 /mnt/bigdata/ndy-5JAI  授权文件夹权限
+ls -ld /mnt/bigdata/ndy-5JAI             查看文件夹权限
+unzip 2026-06-07.zip -d /mnt/bigdata/ndy-5JAI/00_raw_data   解压zip
+sudo du -h --max-depth=1 /mnt/bigdata | sort -hr       查看下一级文件夹所占空间
+df -h  查看挂载磁盘占用情况
+find /mnt/bigdata/ndy-5JAI/01_processed_data/processed_2026-06-05/_window_crop -mindepth 1 -maxdepth 1 -type d | wc -l   查看下一级文件夹数量
+ps -fp PID  查看显卡哪个用户在用

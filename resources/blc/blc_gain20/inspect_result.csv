@@ -1,0 +1,11 @@
+﻿file,format,shape,ndim,dtype,min,max,mean
+GT_Camera-usb_black_level.npy,npy,"(2048, 2448)",2,float32,5.726890563964844,9.491596221923828,5.9998393058776855
+GT_Camera-usb_black_level_distribution.png,png,"(1485, 3836, 4)",3,uint8,0.0,255.0,218.6791710992441
+Nir-Long_Camera-usb_black_level.npy,npy,"(2048, 2448)",2,float32,5.084033489227295,14.478991508483887,5.999764442443848
+Nir-Long_Camera-usb_black_level_distribution.png,png,"(1485, 3824, 4)",3,uint8,0.0,255.0,218.86875264147753
+NIR_Camera_black_level.npy,npy,"(2048, 2448)",2,float32,5.705882549285889,10.802520751953125,5.999787330627441
+NIR_Camera_black_level_distribution.png,png,"(1485, 3838, 4)",3,uint8,0.0,255.0,218.9349082715289
+RGB-Long_Camera_black_level.npy,npy,"(2048, 2448)",2,float32,5.71848726272583,9.172268867492676,5.999809265136719
+RGB-Long_Camera_black_level_distribution.png,png,"(1485, 3836, 4)",3,uint8,0.0,255.0,218.49247221081163
+RGB_Camera_black_level.npy,npy,"(2048, 2448)",2,float32,5.617647171020508,17.441177368164062,5.999907970428467
+RGB_Camera_black_level_distribution.png,png,"(1485, 3834, 4)",3,uint8,0.0,255.0,218.67330771635676
